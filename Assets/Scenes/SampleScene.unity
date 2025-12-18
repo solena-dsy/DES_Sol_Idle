@@ -2140,18 +2140,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: GoldManager01, Assembly-CSharp
-        m_MethodName: 
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
 --- !u!114 &536231431
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3134,11 +3122,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1477986757}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a2fcc50f371e92c42bc5e59a2ff8e457, type: 3}
+  m_Script: {fileID: 11500000, guid: 4538feb1f6c2b2042b7d548c78647d0c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GoldManager
   GoldAmount: 0
-  power: 1
+  power: 0
   GoldText: {fileID: 779082227}
   PowerText: {fileID: 227863994}
   RandomButton: {fileID: 536231430}

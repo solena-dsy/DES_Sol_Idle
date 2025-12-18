@@ -41,14 +41,9 @@ public class GoldManager01 : MonoBehaviour
     {
         if (power >= 30)
         {
-            RandomButton.interactable = true;
             GoldAmount += Random.Range(0, 50);
         }
 
-        else
-        {
-            RandomButton.interactable = false;
-        }
     }
 
 
